@@ -7,10 +7,10 @@ This is the course code for the [JavaScript & LeetCode: The Ultimate Interview B
 * [jest](https://www.npmjs.com/package/jest)
 
 ## Example
-Run tests for [LC100_isSameTree](exercises/LC100_isSameTree)
+Run tests for [LC102_levelOrder](exercises/LC102_levelOrder)
 
 1) `cd` into the [exercises](exercises) folder
 2) Then run:
 ```bash
-jest --watch LC100_isSameTree
+jest --watch LC102_levelOrder
 ```
